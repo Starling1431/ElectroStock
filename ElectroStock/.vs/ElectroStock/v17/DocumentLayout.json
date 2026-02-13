@@ -1,0 +1,868 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:loginfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmagregarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmagregarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmagregarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmagregarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmagregarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmagregarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmAgregarClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmAgregarProveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmAgregarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\ConnectionClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:ConnectionClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\UserClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:UserClass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|c:\\users\\usuario\\documents\\electrostock 4.0\\electrostock 4.0\\electrostock\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmeditarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmeditarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmEditarProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmeditarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmeditarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmEditarClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmeditarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmeditarclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmeditarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmeditarproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmEditarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmEditarUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmAgregarProducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:LoginFrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmreportes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmProductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\formutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:formutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:menuprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\packages\\EPPlus.7.5.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.7.5.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmVentas.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmsalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmsalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmSalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmSalir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmProveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmAgregarClientes.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:frmAgregarProducto.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8718919-4020-4360-8846-7D97D3E0F022}|ElectroStock.csproj|solutionrelative:LoginFrm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmUsuarios.cs",
+              "RelativeToolTip": "frmUsuarios.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAlwJYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:23:10.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProductos.cs",
+              "RelativeDocumentMoniker": "frmProductos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProductos.cs",
+              "RelativeToolTip": "frmProductos.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowNIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:03:48.806Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmClientes.cs",
+              "RelativeDocumentMoniker": "frmClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmClientes.cs",
+              "RelativeToolTip": "frmClientes.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAmwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:29:29.929Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmEditarClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarClientes.cs",
+              "RelativeDocumentMoniker": "frmEditarClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:24:59.544Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmEditarProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProveedores.cs",
+              "RelativeDocumentMoniker": "frmEditarProveedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:26:38.578Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAgregarClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.cs",
+              "RelativeDocumentMoniker": "frmAgregarClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAgregarClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:20:54.523Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmEditarProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProveedores.cs",
+              "RelativeDocumentMoniker": "frmEditarProveedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProveedores.cs",
+              "RelativeToolTip": "frmEditarProveedores.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T01:33:14.258Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmEditarClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarClientes.cs",
+              "RelativeDocumentMoniker": "frmEditarClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarClientes.cs",
+              "RelativeToolTip": "frmEditarClientes.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAewCwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:30:21.383Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "frmProveedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProveedores.cs",
+              "RelativeToolTip": "frmProveedores.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwFgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:32:08.645Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAgregarProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProveedores.cs",
+              "RelativeDocumentMoniker": "frmAgregarProveedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAgregarProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T23:57:59.47Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmClientes.cs",
+              "RelativeDocumentMoniker": "frmClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:31:25.431Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.cs",
+              "RelativeDocumentMoniker": "LoginFrm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LoginFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:42:54.151Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmUsuarios.cs",
+              "RelativeDocumentMoniker": "frmUsuarios.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:09:22.775Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDashBoard.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmDashBoard.cs",
+              "RelativeDocumentMoniker": "frmDashBoard.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmDashBoard.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmDashBoard.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:12:12.762Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmAgregarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "frmAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAgregarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:04:16.213Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmAgregarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.cs",
+              "RelativeDocumentMoniker": "frmAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmAgregarProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:18:55.519Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAgregarClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.cs",
+              "RelativeDocumentMoniker": "frmAgregarClientes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.cs",
+              "RelativeToolTip": "frmAgregarClientes.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:26:35.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAgregarProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProveedores.cs",
+              "RelativeDocumentMoniker": "frmAgregarProveedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProveedores.cs",
+              "RelativeToolTip": "frmAgregarProveedores.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T00:09:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAgregarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarUsuario.cs",
+              "RelativeDocumentMoniker": "frmAgregarUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarUsuario.cs",
+              "RelativeToolTip": "frmAgregarUsuario.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAlwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:35:59.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.cs",
+              "RelativeDocumentMoniker": "frmVentas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.cs",
+              "RelativeToolTip": "frmVentas.cs",
+              "ViewState": "AgIAAIICAAAAAAAAAAAAwKECAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T00:03:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.cs",
+              "RelativeDocumentMoniker": "frmVentas.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:10:04.994Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmDashBoard.cs",
+              "RelativeDocumentMoniker": "frmDashBoard.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmDashBoard.cs",
+              "RelativeToolTip": "frmDashBoard.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:37:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\ConnectionClass.cs",
+              "RelativeDocumentMoniker": "ConnectionClass.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\ConnectionClass.cs",
+              "RelativeToolTip": "ConnectionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:01:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:15:18.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\UserClass.cs",
+              "RelativeDocumentMoniker": "UserClass.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\UserClass.cs",
+              "RelativeToolTip": "UserClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:40:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\Pedido.cs",
+              "RelativeDocumentMoniker": "Pedido.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\Pedido.cs",
+              "RelativeToolTip": "Pedido.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wCIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:22:37.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmReportes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmReportes.cs",
+              "RelativeDocumentMoniker": "frmReportes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmReportes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "frmReportes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:56:21.91Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmReportes.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmReportes.cs",
+              "RelativeDocumentMoniker": "frmReportes.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmReportes.cs",
+              "RelativeToolTip": "frmReportes.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAYwHcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:07:52.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmEditarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarUsuario.cs",
+              "RelativeDocumentMoniker": "frmEditarUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarUsuario.cs",
+              "RelativeToolTip": "frmEditarUsuario.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAlwH0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:58:23.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmEditarProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProductos.cs",
+              "RelativeDocumentMoniker": "frmEditarProductos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:48:47.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmEditarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProductos.cs",
+              "RelativeDocumentMoniker": "frmEditarProductos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarProductos.cs",
+              "RelativeToolTip": "frmEditarProductos.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDgAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:52:10.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmEditarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarUsuario.cs",
+              "RelativeDocumentMoniker": "frmEditarUsuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmEditarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:36:46.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmAgregarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.cs",
+              "RelativeDocumentMoniker": "frmAgregarProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.cs",
+              "RelativeToolTip": "frmAgregarProducto.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAMwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:23:15.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\MenuPrincipal.cs",
+              "RelativeToolTip": "MenuPrincipal.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAMwOAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:09:22.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:30:49.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-28T12:12:01.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmDashBoard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmDashBoard.Designer.cs",
+              "RelativeDocumentMoniker": "frmDashBoard.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmDashBoard.Designer.cs",
+              "RelativeToolTip": "frmDashBoard.Designer.cs",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAUwN4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:04:01.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.cs",
+              "RelativeDocumentMoniker": "LoginFrm.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.cs",
+              "RelativeToolTip": "LoginFrm.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAArwIUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:05:08.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmReportes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmReportes.Designer.cs",
+              "RelativeDocumentMoniker": "frmReportes.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmReportes.Designer.cs",
+              "RelativeToolTip": "frmReportes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:42:01.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\FormUtils.cs",
+              "RelativeDocumentMoniker": "FormUtils.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\FormUtils.cs",
+              "RelativeToolTip": "FormUtils.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:30:33.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MenuPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\MenuPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "MenuPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\MenuPrincipal.Designer.cs",
+              "RelativeToolTip": "MenuPrincipal.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwL4BAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:59:09.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\packages\\EPPlus.7.5.1\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.7.5.1\\readme.txt",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\packages\\EPPlus.7.5.1\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.7.5.1\\readme.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T22:37:04.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmVentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.Designer.cs",
+              "RelativeDocumentMoniker": "frmVentas.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmVentas.Designer.cs",
+              "RelativeToolTip": "frmVentas.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wJYBAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:05:02.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmSalir.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmSalir.cs",
+              "RelativeDocumentMoniker": "frmSalir.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmSalir.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmSalir.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:12:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmSalir.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmSalir.cs",
+              "RelativeDocumentMoniker": "frmSalir.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmSalir.cs",
+              "RelativeToolTip": "frmSalir.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:29:55.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProveedores.cs",
+              "RelativeDocumentMoniker": "frmProveedores.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:08:20.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmAgregarClientes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.Designer.cs",
+              "RelativeDocumentMoniker": "frmAgregarClientes.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarClientes.Designer.cs",
+              "RelativeToolTip": "frmAgregarClientes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:04:21.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProductos.cs",
+              "RelativeDocumentMoniker": "frmProductos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:46:01.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "frmAgregarProducto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.Designer.cs",
+              "RelativeDocumentMoniker": "frmAgregarProducto.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\frmAgregarProducto.Designer.cs",
+              "RelativeToolTip": "frmAgregarProducto.Designer.cs",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAlwIoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T01:22:15.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T23:46:37.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\ElectroStock 4.0\\ElectroStock 4.0\\ElectroStock\\LoginFrm.Designer.cs",
+              "RelativeToolTip": "LoginFrm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:08:40.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

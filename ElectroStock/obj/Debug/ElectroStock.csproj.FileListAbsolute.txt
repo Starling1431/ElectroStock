@@ -1,0 +1,1105 @@
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Documents\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Documents\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Documents\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.1\ElectroStock\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.2\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.3\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock v2.4\ElectroStock v2.4\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock v2.5\ElectroStock v2.5\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\ElectroStock v2.5.1\ElectroStock v2.5.1\ElectroStock v2.2\ElectroStock\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 2.6\ElectroStock 2.6\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.1\ElectroStock 2.6.1\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.2\ElectroStock 2.6.2\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.3\ElectroStock 2.6.3\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 2.6.4\ElectroStock 2.6.4\ElectroStock\obj\Debug\Studium.frmAgregarProducto.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmAgregarProducto.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmEditarProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmAgregarClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmEditarClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 2.6.5\ElectroStock 2.6.5\ElectroStock\obj\Debug\Studium.frmVentas.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmAgregarClientes.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmAgregarProducto.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmClientes.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmEditarClientes.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmEditarProductos.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.frmVentas.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E - 2023 0126\Downloads\ElectroStock 3.0\ElectroStock 3.0\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmAgregarClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmAgregarProducto.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmEditarClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmEditarProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmVentas.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\obj\Debug\Studium.frmReportes.resources
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\EPPlus.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\EPPlus.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Usuario\Downloads\ElectroStock 3.1\ElectroStock 3.1\ElectroStock\bin\Debug\System.Drawing.Common.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Studium.exe
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\EPPlus.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Newtonsoft.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Drawing.Common.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\EPPlus.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Drawing.Common.pdb
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Drawing.Common.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmAgregarClientes.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmAgregarProducto.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmClientes.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmEditarClientes.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmEditarProductos.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmReportes.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.frmVentas.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\5TO E 2023-0126\Downloads\ElectroStock 3.5\ElectroStock 3.5\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Drawing.Common.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarProducto.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarClientes.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmReportes.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmVentas.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.System.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.System.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.System.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.exe.config
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Studium.exe.config
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Studium.exe
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Studium.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Bunifu.UI.WinForms.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.System.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\RestSharp.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Drawing.Common.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\EPPlus.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.System.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.System.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\RestSharp.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Drawing.Common.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.exe.config
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarClientes.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarProducto.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarProveedores.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmAgregarUsuario.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmClientes.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmDashBoard.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarClientes.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarProductos.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarProveedores.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmEditarUsuario.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmProductos.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmProveedores.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmReportes.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmSalir.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmUsuarios.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.frmVentas.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.LoginFrm.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.MenuPrincipal.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.Properties.Resources.resources
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroStock.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\ElectroS.8C1C6432.Up2Date
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.exe
+C:\Users\Usuario\Documents\ElectroStock 4.0\ElectroStock 4.0\ElectroStock\obj\Debug\Studium.pdb
