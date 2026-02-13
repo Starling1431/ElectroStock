@@ -70,15 +70,6 @@ Ejecutar la base de datos desde los scripts incluidos.
 
 Presionar F5 para iniciar el sistema.
 
-📸 Capturas de Pantalla
-
-(Aquí puedes agregar imágenes del sistema funcionando)
-
-👨‍💻 Autor
-
-Starling Yassael Montero
-📍 Santo Domingo, República Dominicana
-📧 yassaelsecundario@gmail.com
 
 📄 Licencia
 
